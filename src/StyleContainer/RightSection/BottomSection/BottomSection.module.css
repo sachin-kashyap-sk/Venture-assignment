@@ -1,0 +1,39 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 2%;
+}
+.btnContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  width: 17%;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0.5%;
+}
+
+.lastBtn {
+  display: flex;
+  width: 47%;
+  justify-content: space-between;
+}
+
+.camText {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.bottomBtn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pegColor {
+  color: #673ab7;
+}

@@ -1,0 +1,80 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  padding-top: 3%;
+  border-bottom: 2px solid #efebe9;
+}
+
+.firstContainer {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  border-right: 3px solid #efebe9;
+}
+
+.secContainer {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+}
+
+.allEmail {
+  display: flex;
+  flex-direction: column;
+}
+
+.allEmailText {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.violetDot {
+  height: 10px;
+  width: 10px;
+  background-color: #9c27b0;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.blueDot {
+  height: 10px;
+  width: 10px;
+  background-color: #01579b;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dotContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 2%;
+}
+
+.first {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 25%;
+}
+
+.newFirst {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 15%;
+}
+
+.sec {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 25%;
+}
+
+.rateFirst {
+  font-size: 15px;
+  font-weight: 500;
+  color: #bdbdbd;
+  padding-left: 5%;
+}

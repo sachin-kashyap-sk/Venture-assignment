@@ -1,0 +1,74 @@
+.text {
+  font-size: 5px;
+  font-weight: 600;
+}
+
+.header {
+  color: #000;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.firstContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+.toggleContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.manContainer {
+  display: flex;
+  align-items: center;
+  padding-left: 6%;
+  padding-bottom: 7%;
+  padding-top: 7%;
+}
+.header2 {
+  color: #ffffff !important;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.btn {
+  color: #000;
+  border-color: #000;
+}
+.btn2 {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.drawerBottom {
+  display: flex;
+  flex-direction: row;
+  background-color: #e8eaf6;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1%;
+}
+.drawerBottom2 {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1%;
+  border: 1px solid #fff;
+}
+
+.userText {
+  font-size: 15px;
+  font-weight: 600;
+}
+.userEmail {
+  font-size: 12px;
+  font-weight: 500;
+}
