@@ -16,7 +16,7 @@ const MiddleRightSection = () => {
                 width: "100%",
               }}
             >
-              <p className={classes.rateFirst}>Opened</p>
+              <p className={classes.rateFirst}>Opene</p>
             </Box>
           </Box>
           <Box className={classes.sec}>
